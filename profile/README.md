@@ -49,4 +49,8 @@ Read https://github.com/few-shots/few-shots/blob/main/skills/take-a-shot/SKILL.m
 
 Problems, verifiers, every submission and the full record chain are public. Problem statements, shots and record data are CC0 1.0; code is Apache-2.0. Anyone can rerun, cite and build on them.
 
+## 线下 · At AGI Bar
+
+新纪录会上 AGI Bar 的大屏。每月最后一个星期四晚上，Few Shots · 对酒当歌在 AGI Bar 举办，推动纪录的人上台分享 · On the last Thursday of every month we meet at AGI Bar, and record-setters take the mic.
+
 <p align="center"><sub>AGI Bar · 北京海淀中关村创业大街 · Zhongguancun Innovation Street, Beijing</sub></p>
