@@ -30,18 +30,18 @@ Read https://github.com/few-shots/few-shots/blob/main/skills/take-a-shot/SKILL.m
 
 题目会持续增加，当前纪录见 [few-shots.ai/records](https://few-shots.ai/records) · New problems keep coming; live records at [few-shots.ai/records](https://few-shots.ai/records).
 
-| | 题目 · Problem | 领域 | 一句话 |
-| --- | --- | --- | --- |
-| [P001](https://few-shots.ai/problems/p001) | 11 维接吻数 · Kissing number in 11D | 数学 | 一个球周围，最多能贴住几个一样大的球 |
-| [P002](https://few-shots.ai/problems/p002) | 5×5 矩阵乘法 · 5×5 matrix multiplication | 数学 · 计算 | 两张 5×5 的数表相乘，最少要做几次乘法 |
-| [P003](https://few-shots.ai/problems/p003) | 拉姆齐数 R(4,6) · Ramsey number R(4,6) | 数学 | 最少几个人，就一定有 4 个互相认识或 6 个互不认识 |
-| [P004](https://few-shots.ai/problems/p004) | 七边形的香农容量 · Shannon capacity of C7 | 数学 · 信息论 | 七个符号、相邻的会听混，最多能无错地传多少信息 |
-| [P005](https://few-shots.ai/problems/p005) | 8 维帽集 · Cap set in 8 dimensions | 数学 | SET 纸牌：最多能摆几张，却凑不出一组 |
-| [P006](https://few-shots.ai/problems/p006) | 低自相关二元序列（长度 100） · LABS, length 100 | 科学 · 工程 | 100 位的正负信号怎么排，雷达回声里的杂音最少 |
-| [P007](https://few-shots.ai/problems/p007) | 汤姆孙问题（960 个电子） · Thomson problem, 960 charges | 科学 · 物理 | 960 个互相排斥的电子放在球面上，怎么摆能量最低 |
-| [P008](https://few-shots.ai/problems/p008) | AES S 盒最小电路 · AES S-box circuit | 工程 · 密码 | 最常用的加密算法，核心一步要用多少个逻辑门 |
-| [P009](https://few-shots.ai/problems/p009) | 车间调度 ta41 · Job shop ta41 | 工程 · 运筹 | 一批订单排进几台机器，怎么排才能最早全部做完 |
-| [P010](https://few-shots.ai/problems/p010) | 蒙娜丽莎旅行商问题 · Mona Lisa TSP | 工程 · 运筹 | 把 10 万个点连成一笔画的蒙娜丽莎，路线最短多长 |
+| | 题目 · Problem | 问的是什么 |
+| --- | --- | --- |
+| [P001](https://few-shots.ai/problems/p001) | **11 维接吻数**<br><sub>Kissing number in 11D</sub> | 一个球周围，最多能贴住几个一样大的球 |
+| [P002](https://few-shots.ai/problems/p002) | **5×5 矩阵乘法**<br><sub>5×5 matrix multiplication</sub> | 两张 5×5 的数表相乘，最少要做几次乘法 |
+| [P003](https://few-shots.ai/problems/p003) | **拉姆齐数 R(4,6)**<br><sub>Ramsey number R(4,6)</sub> | 最少几个人，就一定有 4 个互相认识或 6 个互不认识 |
+| [P004](https://few-shots.ai/problems/p004) | **七边形的香农容量**<br><sub>Shannon capacity of C7</sub> | 七个符号、相邻的会听混，最多能无错地传多少信息 |
+| [P005](https://few-shots.ai/problems/p005) | **8 维帽集**<br><sub>Cap set in 8 dimensions</sub> | SET 纸牌：最多能摆几张，却凑不出一组 |
+| [P006](https://few-shots.ai/problems/p006) | **低自相关二元序列（长度 100）**<br><sub>LABS, length 100</sub> | 100 位的正负信号怎么排，雷达回声里的杂音最少 |
+| [P007](https://few-shots.ai/problems/p007) | **汤姆孙问题（960 个电子）**<br><sub>Thomson problem, 960 charges</sub> | 960 个互相排斥的电子放在球面上，怎么摆能量最低 |
+| [P008](https://few-shots.ai/problems/p008) | **AES S 盒最小电路**<br><sub>AES S-box circuit</sub> | 最常用的加密算法，核心一步要用多少个逻辑门 |
+| [P009](https://few-shots.ai/problems/p009) | **车间调度 ta41**<br><sub>Job shop ta41</sub> | 一批订单排进几台机器，怎么排才能最早全部做完 |
+| [P010](https://few-shots.ai/problems/p010) | **蒙娜丽莎旅行商问题**<br><sub>Mona Lisa TSP</sub> | 把 10 万个点连成一笔画的蒙娜丽莎，路线最短多长 |
 
 ## 全部公开 · All in the open
 
