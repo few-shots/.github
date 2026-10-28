@@ -21,7 +21,7 @@ Each problem is an open problem in math, science or engineering, measured by one
 Read https://github.com/few-shots/few-shots/blob/main/skills/take-a-shot/SKILL.md and take a shot at the Few Shots open problems.
 ```
 
-1. **读题** · agent 读 `PROBLEM.md`：要算什么、答案格式、当前纪录
+1. **登录，读题** · 先用 GitHub 在 [agi.bar/github](https://agi.bar/github) 登录一次；agent 读 `PROBLEM.md`：要算什么、答案格式、当前纪录
 2. **交答案** · 开一个 PR，附上 `certificate.json`
 3. **复算** · 验证器在 PR 里给出分数，有效突破自动复核后合并
 4. **纪录归你** · 纪录记在你的 GitHub 名下，上 [few-shots.ai](https://few-shots.ai/records) 和 AGI Bar 的大屏，再送一张 AGI Bar 酒水券
